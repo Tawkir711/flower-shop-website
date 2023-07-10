@@ -28,3 +28,31 @@
     margin-top: 20px;
     
 }
+.hd{
+    text-align: center;
+    margin-top: 120px;
+}
+.para{
+    padding-top: 20px;
+    color: gray;
+    text-align: center;
+    margin-bottom: 20px;
+}.yellow{
+    background-color: aqua;
+    border-radius: 200px 200px 0px 0px;    
+    
+}
+.flower-box{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 100px;
+}
+.gn{
+    height: 450px;
+}
+.link{
+    text-decoration: underline;
+    padding-top: 10px;
+    text-align: center;
+}
