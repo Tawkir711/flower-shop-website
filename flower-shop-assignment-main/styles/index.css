@@ -48,7 +48,7 @@ heading style
 img style
 */
 .yellow{
-    background-color: aqua;
+    background-color: rgb(84, 201, 201);
     border-radius: 200px 200px 0px 0px;    
     
 }
@@ -72,7 +72,7 @@ box item style
 .box{
     display: flex;
     justify-content: space-around;
-    background-color: darkgray;
+    background-color: rgb(189, 178, 178);
     margin-left: 120px;
     margin-right: 100px;    
     margin-top: 60px;
@@ -80,3 +80,33 @@ box item style
     padding-bottom: 50px;
 }
 
+.container{
+    background-color: rgb(245, 205, 148);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+/* span color */
+.bgm{
+    color: red;
+}
+/* 
+img add
+*/
+.img{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    width: 200px;
+    height: 300px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+/* 
+backgroun img add
+*/
+.bkgi{
+    margin-top: 90px;
+}
