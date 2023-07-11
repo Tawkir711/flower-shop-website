@@ -108,5 +108,22 @@ img add
 backgroun img add
 */
 .bkgi{
-    margin-top: 90px;
+    /* margin-top: 90px; */
+    /* height: 100vh; */
+}
+.btn-two{
+    height: 35px;
+    
+}
+/* 
+footer styles
+*/
+.black{
+    background-color: rgb(44, 41, 41);
+    padding: 10px;
+    color: white;
+    margin-top: 50px;
+}
+.lst{
+    text-align: center;
 }
